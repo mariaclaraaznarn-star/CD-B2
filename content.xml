@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260529172459S1TE0R</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260529172459XJH8WQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780068241799</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpqyzlfc-o6hzhza81</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqyzlfd-nwbpyvr5f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información y presentación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información y presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información y presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqyzlfd-nwbpyvr5f</odePageId>
+      <odeBlockId>block-1779296628891-tineqxokv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqyzlfd-nwbpyvr5f</odePageId>
+          <odeBlockId>block-1779296628891-tineqxokv</odeBlockId>
+          <odeIdeviceId>idevice-1779296628885-fde0l7lse</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este es un trabajo de toda la elaboración de la SdA que h<img src="{{context_path}}/content/resources/69e106fe-3b07-3809-d143-b0abd2060c43.pdf" alt="" />e estado llevando a cabo para este curso y que es de total utilidad para mis clases de español siempre adecuándola a las necesidades y características del alumnado adulto que está aprendiendo castellano.</p>
+<p><img src="{{context_path}}/content/resources/IMAGEN DE PRESENTACIÓN DEL AULA B2 CDD María Clara Aznar Navarro.jpg" title="Imagen del aula" width="1024" height="559" alt="Imagen del aula" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779296628885-fde0l7lse","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este es un trabajo de toda la elaboración de la SdA que h<img src=\"{{context_path}}/content/resources/69e106fe-3b07-3809-d143-b0abd2060c43.pdf\" alt=\"\" />e estado llevando a cabo para este curso y que es de total utilidad para mis clases de español siempre adecuándola a las necesidades y características del alumnado adulto que está aprendiendo castellano.</p>\n<p><img src=\"{{context_path}}/content/resources/IMAGEN DE PRESENTACIÓN DEL AULA B2 CDD María Clara Aznar Navarro.jpg\" title=\"Imagen del aula\" width=\"1024\" height=\"559\" alt=\"Imagen del aula\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780062145016-waret2szn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780062145016-waret2szn</odePageId>
+      <odeBlockId>block-1780062520535-uvse8d3qm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780062145016-waret2szn</odePageId>
+          <odeBlockId>block-1780062520535-uvse8d3qm</odeBlockId>
+          <odeIdeviceId>idevice-1780062520527-n9d7wjdqi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El presente proyecto tiene como objeto la enseñanza y aprendizaje de la lengua y cultura castellana de personas adultas junto con las competencias digitales en el aula.</p>
+<p>Es por ello que, a través del uso de herramientas y recursos digitales se trabajarán aspectos relacionados con la lengua y cultura castellana. Esta SdA pretende favorecer la inclusión del alumnado en el amplio mundo de lo digital fomentando un aprendizaje cooperativo, práctico y útil para su vida diaria.</p>
+<p><a href="https://drive.google.com/file/d/1XupnEZKskYEhBOwfwoGl89qTGAdEDNzg/view?usp=sharing" title="">Presentación y descripción del proyecto.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780062520527-n9d7wjdqi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El presente proyecto tiene como objeto la enseñanza y aprendizaje de la lengua y cultura castellana de personas adultas junto con las competencias digitales en el aula.</p>\n<p>Es por ello que, a través del uso de herramientas y recursos digitales se trabajarán aspectos relacionados con la lengua y cultura castellana. Esta SdA pretende favorecer la inclusión del alumnado en el amplio mundo de lo digital fomentando un aprendizaje cooperativo, práctico y útil para su vida diaria.</p>\n<p><a href=\"https://drive.google.com/file/d/1XupnEZKskYEhBOwfwoGl89qTGAdEDNzg/view?usp=sharing\" title=\"\">Presentación y descripción del proyecto.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780063075045-ku8by8vrr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Datos personales y garantías de derechos digitales..</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y garantías de derechos digitales..</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780063075045-ku8by8vrr</odePageId>
+      <odeBlockId>block-1780063082861-048chgwck</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780063075045-ku8by8vrr</odePageId>
+          <odeBlockId>block-1780063082861-048chgwck</odeBlockId>
+          <odeIdeviceId>idevice-1780063082855-tvbwrocpa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de esta SdA se prestará especial importancia a la protección de datos personales y de las garantías de los derechos digitales. Por ello, toda la información recogida, será tratada de forma confidencial cumpliendo con la normativa vigente en materia de protección de datos. También, se fomentará el uso seguro, responsable y ético de las herramientas digitales en el desarrollo de las actividades. Así, se garantiza la privacidad de las personas que participan y se promueven valores de conciencia y responsabilidad en el ámbito educativo y tecnológico.</p>
+<p><a href="https://drive.google.com/file/d/1N55MegzYRvPn0-UobBL6of0HhlXke2ZF/view?usp=sharing" title="">Datos personales y garantía de derechos digitales.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780063082855-tvbwrocpa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de esta SdA se prestará especial importancia a la protección de datos personales y de las garantías de los derechos digitales. Por ello, toda la información recogida, será tratada de forma confidencial cumpliendo con la normativa vigente en materia de protección de datos. También, se fomentará el uso seguro, responsable y ético de las herramientas digitales en el desarrollo de las actividades. Así, se garantiza la privacidad de las personas que participan y se promueven valores de conciencia y responsabilidad en el ámbito educativo y tecnológico.</p>\n<p><a href=\"https://drive.google.com/file/d/1N55MegzYRvPn0-UobBL6of0HhlXke2ZF/view?usp=sharing\" title=\"\">Datos personales y garantía de derechos digitales.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780063075045-ku8by8vrr</odePageId>
+      <odeBlockId>block-1780063656869-3c3rlkjs3</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780063075045-ku8by8vrr</odePageId>
+          <odeBlockId>block-1780063656869-3c3rlkjs3</odeBlockId>
+          <odeIdeviceId>idevice-1780063656865-p8sg2ma8d</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780063656865-p8sg2ma8d" title="" href="{{context_path}}/content/resources/Imagen Tarea 2.3.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Imagen Tarea 2.3.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780063656865-p8sg2ma8d","img_0":{"img":"{{context_path}}/content/resources/Imagen Tarea 2.3.jpg","thumbnail":"{{context_path}}/content/resources/Imagen Tarea 2.3.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780063716456-v0u00i2v3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780063716456-v0u00i2v3</odePageId>
+      <odeBlockId>block-1780063751414-mkwm14jky</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780063716456-v0u00i2v3</odePageId>
+          <odeBlockId>block-1780063751414-mkwm14jky</odeBlockId>
+          <odeIdeviceId>idevice-1780063751409-wzrb4amte</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta SdA consistirá en la elaboración de materiales y recursos digitales relacionados con los procesos de enseñanza y aprendizaje de la lengua castellana y la cultura para personas adultas. </p>
+<p><a href="https://drive.google.com/file/d/17mquwBvII-ZbI22nbIOTZv6YbPbeoG1u/view?usp=sharing" title="">Descripción del producto final.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780063751409-wzrb4amte","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta SdA consistirá en la elaboración de materiales y recursos digitales relacionados con los procesos de enseñanza y aprendizaje de la lengua castellana y la cultura para personas adultas. </p>\n<p><a href=\"https://drive.google.com/file/d/17mquwBvII-ZbI22nbIOTZv6YbPbeoG1u/view?usp=sharing\" title=\"\">Descripción del producto final.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780063716456-v0u00i2v3</odePageId>
+      <odeBlockId>block-1780064171010-q7yvsax06</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780063716456-v0u00i2v3</odePageId>
+          <odeBlockId>block-1780064171010-q7yvsax06</odeBlockId>
+          <odeIdeviceId>idevice-1780064171005-ehs73v8du</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Wayground</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Recurso de apoyo visual para el alumnado que tenga dificultades para el uso de la APP Wayground.</p></div><article class="exe-udlContent-content-visual js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Apoyo visual</h2></header><p><a href="https://www.youtube.com/watch?v=UE0C8j_uc8U" title="">Wayground</a></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780064371819-bsdn9n3u2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de contenido.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de contenido.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780064371819-bsdn9n3u2</odePageId>
+      <odeBlockId>block-1780064374607-hqoai1wbx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780064371819-bsdn9n3u2</odePageId>
+          <odeBlockId>block-1780064374607-hqoai1wbx</odeBlockId>
+          <odeIdeviceId>idevice-1780064374603-yw2zd5vts</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA de enseñanza y aprendizaje de la lengua y cultura castellana para personas adultas se emplearán herramientas de diferente contenido adaptadas a las necesidades de la maestra y del alumnado adulto.</p>
+<p>Además, la maestra contará con recursos digitales destinados a la planificación, seguimiento y evaluación de las actividades propuestas.</p>
+<p>Por su parte el alumnado, utilizará herramientas accesibles e interactivas que favorecerán la creación de contenidos, la búsqueda de información y el aprendizaje colaborativo.</p>
+<p>Es por ello que, de esta manera, se potenciará el desarrollo de competencias digitales al mismo tiempo que se aprenderá el uso del castellano.</p>
+<p><a href="https://drive.google.com/file/d/1mlkPjIq2TEKB94I0TEJ1EhCF8hqkXt3O/view?usp=sharing" title="">Recursos</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780064374603-yw2zd5vts","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA de enseñanza y aprendizaje de la lengua y cultura castellana para personas adultas se emplearán herramientas de diferente contenido adaptadas a las necesidades de la maestra y del alumnado adulto.</p>\n<p>Además, la maestra contará con recursos digitales destinados a la planificación, seguimiento y evaluación de las actividades propuestas.</p>\n<p>Por su parte el alumnado, utilizará herramientas accesibles e interactivas que favorecerán la creación de contenidos, la búsqueda de información y el aprendizaje colaborativo.</p>\n<p>Es por ello que, de esta manera, se potenciará el desarrollo de competencias digitales al mismo tiempo que se aprenderá el uso del castellano.</p>\n<p><a href=\"https://drive.google.com/file/d/1mlkPjIq2TEKB94I0TEJ1EhCF8hqkXt3O/view?usp=sharing\" title=\"\">Recursos</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780064746844-ah72hftfq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780064746844-ah72hftfq</odePageId>
+      <odeBlockId>block-1780064750322-ao15z1db8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780064746844-ah72hftfq</odePageId>
+          <odeBlockId>block-1780064750322-ao15z1db8</odeBlockId>
+          <odeIdeviceId>idevice-1780064750317-13yc1rs23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La línea temporal de esta SdA recoge la planificación y organización de las diferentes actividades relacionadas con la enseñanza y aprendizaje de la lengua y cultura castellana.</p>
+<p>En esta, se establecen las distintas fases de trabajo que se distribuyen a lo largo del desarrollo del proyecto al objeto de garantizar una secuenciación adecuada a los contenidos y tareas a elaborar. </p>
+<p>Dicha planificación permitirá coordinar las actividades, hacer un seguimiento del aprendizaje y favorecer la consecución de los objetivos propuestos. Todo ello, permite una estructura del trabajo escolar clara, organizada y respetando los diferentes ritmos del alumnado.</p>
+<p><a href="https://drive.google.com/file/d/1hNAG_VtTBu2IbzG6VWn50cafIjnukEJN/view?usp=sharing" title="">Línea temporal.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780064750317-13yc1rs23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La línea temporal de esta SdA recoge la planificación y organización de las diferentes actividades relacionadas con la enseñanza y aprendizaje de la lengua y cultura castellana.</p>\n<p>En esta, se establecen las distintas fases de trabajo que se distribuyen a lo largo del desarrollo del proyecto al objeto de garantizar una secuenciación adecuada a los contenidos y tareas a elaborar. </p>\n<p>Dicha planificación permitirá coordinar las actividades, hacer un seguimiento del aprendizaje y favorecer la consecución de los objetivos propuestos. Todo ello, permite una estructura del trabajo escolar clara, organizada y respetando los diferentes ritmos del alumnado.</p>\n<p><a href=\"https://drive.google.com/file/d/1hNAG_VtTBu2IbzG6VWn50cafIjnukEJN/view?usp=sharing\" title=\"\">Línea temporal.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780064746844-ah72hftfq</odePageId>
+      <odeBlockId>block-1780065058101-w0xwp7cix</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780064746844-ah72hftfq</odePageId>
+          <odeBlockId>block-1780065058101-w0xwp7cix</odeBlockId>
+          <odeIdeviceId>idevice-1780065058096-um9ucnkx2</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780065058096-um9ucnkx2" title="" href="{{context_path}}/content/resources/Tarea 7.1 Línea temporal..jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Tarea 7.1 Línea temporal..jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780065058096-um9ucnkx2","img_0":{"img":"{{context_path}}/content/resources/Tarea 7.1 Línea temporal..jpg","thumbnail":"{{context_path}}/content/resources/Tarea 7.1 Línea temporal..jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780065267545-2go3jg6xf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica.</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780065267545-2go3jg6xf</odePageId>
+      <odeBlockId>block-1780065273307-88i0w88dn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780065267545-2go3jg6xf</odePageId>
+          <odeBlockId>block-1780065273307-88i0w88dn</odeBlockId>
+          <odeIdeviceId>idevice-1780065273301-7i3k1v4t4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La actual SdA tiene como finalidad guiar en el desarrollo de la enseñanza y aprendizaje de la lengua y cultura española en personas adultas utilizando herramientas y recursos digitales.</p>
+<p>En esta se recogen las tareas, criterios de evaluación, agrupamientos, tiempo aproximado y herramientas digitales que se utilizarán durante la SdA dentro de un ambiente de trabajo cooperativo y participativo. Por otro lado, se espera que esta guía sirva como apoyo para el alumnado y para la maestra facilitando la organización y el seguimiento de las tareas propuestas.</p>
+<p>La finalidad es entonces el desarrollo de las competencias digitales y la enseñanza y aprendizaje de la lengua y cultura española.</p>
+<p><a href="https://drive.google.com/file/d/1mmCrVeYFJ_FdPZFL9EM86D_ZYhxf2x6B/view?usp=sharing" title="">Guía didáctica.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780065273301-7i3k1v4t4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La actual SdA tiene como finalidad guiar en el desarrollo de la enseñanza y aprendizaje de la lengua y cultura española en personas adultas utilizando herramientas y recursos digitales.</p>\n<p>En esta se recogen las tareas, criterios de evaluación, agrupamientos, tiempo aproximado y herramientas digitales que se utilizarán durante la SdA dentro de un ambiente de trabajo cooperativo y participativo. Por otro lado, se espera que esta guía sirva como apoyo para el alumnado y para la maestra facilitando la organización y el seguimiento de las tareas propuestas.</p>\n<p>La finalidad es entonces el desarrollo de las competencias digitales y la enseñanza y aprendizaje de la lengua y cultura española.</p>\n<p><a href=\"https://drive.google.com/file/d/1mmCrVeYFJ_FdPZFL9EM86D_ZYhxf2x6B/view?usp=sharing\" title=\"\">Guía didáctica.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780065906438-kt0ps2n04</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780065906438-kt0ps2n04</odePageId>
+      <odeBlockId>block-1780065908759-2g6375bzl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780065906438-kt0ps2n04</odePageId>
+          <odeBlockId>block-1780065908759-2g6375bzl</odeBlockId>
+          <odeIdeviceId>idevice-1780065908754-o53wgnswt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los instrumentos de evaluación de esta SdA permitirán valorar tanto el aprendizaje adquirido por el alumnado como el desarrollo de las competencias digitales y la enseñanza y aprendizaje de la lengua y cultura castellana.</p>
+<p>Para tal fin, se utilizarán dos herramientas de evaluación especialmente:</p>
+<p>1. Lista de cotejo.</p>
+<p>2. Diana de evaluación.</p>
+<p>Ambos instrumentos contribuirán al desarrollo de una evaluación completa y adaptada las necesidades del alumnado. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780065908754-o53wgnswt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los instrumentos de evaluación de esta SdA permitirán valorar tanto el aprendizaje adquirido por el alumnado como el desarrollo de las competencias digitales y la enseñanza y aprendizaje de la lengua y cultura castellana.</p>\n<p>Para tal fin, se utilizarán dos herramientas de evaluación especialmente:</p>\n<p>1. Lista de cotejo.</p>\n<p>2. Diana de evaluación.</p>\n<p>Ambos instrumentos contribuirán al desarrollo de una evaluación completa y adaptada las necesidades del alumnado. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780066241123-bcl0vweax</odePageId>
+  <odeParentPageId>page-1780065906438-kt0ps2n04</odeParentPageId>
+  <pageName>Lista de cotejo.</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780066241123-bcl0vweax</odePageId>
+      <odeBlockId>block-1780066246676-luauwgnui</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780066241123-bcl0vweax</odePageId>
+          <odeBlockId>block-1780066246676-luauwgnui</odeBlockId>
+          <odeIdeviceId>idevice-1780066246671-9wtex7orl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La lista de cotejo es una herramienta de evaluación que detalla criterios y indicadores para verificar el cumplimiento de tareas o actividades específicas de manera estructurada y sistemática teniendo en cuenta que el alumnado tiene dos objetivos fundamentales: </p>
+<p>- el aprendizaje de la lengua y cultura castellana.</p>
+<p>- el conocimiento, uso y aplicación de herramientas y recursos digitales.</p>
+<p><a href="https://drive.google.com/file/d/1sVRe5E0DG8ZuGUBhsXpNxgSzB8Bh4tgA/view?usp=sharing" title="">Lista de cotejo.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780066246671-9wtex7orl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La lista de cotejo es una herramienta de evaluación que detalla criterios y indicadores para verificar el cumplimiento de tareas o actividades específicas de manera estructurada y sistemática teniendo en cuenta que el alumnado tiene dos objetivos fundamentales: </p>\n<p>- el aprendizaje de la lengua y cultura castellana.</p>\n<p>- el conocimiento, uso y aplicación de herramientas y recursos digitales.</p>\n<p><a href=\"https://drive.google.com/file/d/1sVRe5E0DG8ZuGUBhsXpNxgSzB8Bh4tgA/view?usp=sharing\" title=\"\">Lista de cotejo.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780066499974-z11uly7ba</odePageId>
+  <odeParentPageId>page-1780065906438-kt0ps2n04</odeParentPageId>
+  <pageName>Diana de autoevaluación.</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana de autoevaluación.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780066499974-z11uly7ba</odePageId>
+      <odeBlockId>block-1780066559548-c5ulsioim</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780066499974-z11uly7ba</odePageId>
+          <odeBlockId>block-1780066559548-c5ulsioim</odeBlockId>
+          <odeIdeviceId>idevice-1780066559543-t54df4ryl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La diana de autoevaluación es una herramienta visual con forma de círculo que permite a los estudiantes evaluar su propio progreso en diferentes competencias, identificando áreas de mejora y fortalezas tanto para el conocimiento y uso de herramientas y recursos digitales como el aprendizaje de la lengua y cultura castellana.</p>
+<p><a href="https://drive.google.com/file/d/1Qy35WEZwe0FdELcIjTCCdARGg3kLuB8I/view?usp=sharing" title="">Diana de autoevaluación.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780066559543-t54df4ryl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La diana de autoevaluación es una herramienta visual con forma de círculo que permite a los estudiantes evaluar su propio progreso en diferentes competencias, identificando áreas de mejora y fortalezas tanto para el conocimiento y uso de herramientas y recursos digitales como el aprendizaje de la lengua y cultura castellana.</p>\n<p><a href=\"https://drive.google.com/file/d/1Qy35WEZwe0FdELcIjTCCdARGg3kLuB8I/view?usp=sharing\" title=\"\">Diana de autoevaluación.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780067486486-55rl3fyqc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo  final.</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo  final.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780067486486-55rl3fyqc</odePageId>
+      <odeBlockId>block-1780067641970-xi2epl4cd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780067486486-55rl3fyqc</odePageId>
+          <odeBlockId>block-1780067641970-xi2epl4cd</odeBlockId>
+          <odeIdeviceId>idevice-1780067641963-ejj5aheb2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>He elaborado este proyecto de manera original y autónoma, siendo la única autora responsable de su creación. Todos los contenidos, incluyendo textos, recursos, imágenes, gráficos y vídeos, han sido producidos íntegramente por mí. Autorizo su uso con fines exclusivamente educativos y sin ánimo de lucro, bajo una licencia de uso libre dentro del ámbito docente, siempre citando la autoría. Este proyecto refleja mi esfuerzo, creatividad y compromiso con la difusión del conocimiento de manera ética y accesible.</p>
+<p><a href="https://docs.google.com/document/d/1l1KR4tnTx-RQjGL8_DVM9xlcoD6y8NErOLv8c542hms/edit?usp=sharing" title="">Botón de descarga de archivo editable</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780067641963-ejj5aheb2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>He elaborado este proyecto de manera original y autónoma, siendo la única autora responsable de su creación. Todos los contenidos, incluyendo textos, recursos, imágenes, gráficos y vídeos, han sido producidos íntegramente por mí. Autorizo su uso con fines exclusivamente educativos y sin ánimo de lucro, bajo una licencia de uso libre dentro del ámbito docente, siempre citando la autoría. Este proyecto refleja mi esfuerzo, creatividad y compromiso con la difusión del conocimiento de manera ética y accesible.</p>\n<p><a href=\"https://docs.google.com/document/d/1l1KR4tnTx-RQjGL8_DVM9xlcoD6y8NErOLv8c542hms/edit?usp=sharing\" title=\"\">Botón de descarga de archivo editable</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
